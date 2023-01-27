@@ -1,0 +1,24 @@
+{
+    "short_name":"Pagina1",
+    "Name": "Creando Pagina1",
+    "icons":[
+        {
+            "src": "img/img.png",
+            "sizes":"192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/img.png",
+            "sizes":"256x256",
+            "type": "image/png"
+        }
+        
+    ],
+    "Star_url": "index.html",
+    "background_color": "#098a2b",
+    "dispay": "standalone",
+    "scope":"/",
+    "theme_color": "#a30b70",
+    "description": "Weather forecast information"
+
+}
